@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slime-hatena&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slime-hatena&hide_border=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Slime-hatena&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slime-hatena&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&hide_border=true" />
 </a>
 
 
