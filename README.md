@@ -1,10 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slime-hatena&hide_border=true&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Slime-hatena&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&hide_border=true" />
-</a>
-
 <!--
 **Slime-hatena/Slime-hatena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
