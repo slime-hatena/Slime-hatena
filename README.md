@@ -54,6 +54,10 @@ JavaScript               3 repos             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Slime-hatena&theme=flat&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Slime-hatena/Slime-hatena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
