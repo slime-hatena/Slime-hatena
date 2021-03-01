@@ -25,3 +25,16 @@ jobs:
           # SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+      - uses: actions/checkout@v2
+      - name: commit & push
+        run: |
+          cat README.md | sed -e 's/░/ /g' > README.md
+          git add -N .
+          if ! git diff --exit-code --quiet
+          then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add .
+            git commit -m "Update"
+            git push
+          fi
