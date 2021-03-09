@@ -1,3 +1,6 @@
+### ⏰ WakaTime Stats
+
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -56,7 +59,13 @@ JavaScript               4 repos             █░░░░░░░░░░�
 
 ---
 
+### 🏆 Achievement
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Slime-hatena&theme=flat&no-bg=true&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎧 Spotify Playing
+
+[<img src="https://spotify-now-playing-slime-hatena.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/slime_hatena)
 
 <!--
 **Slime-hatena/Slime-hatena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
