@@ -36,8 +36,6 @@ jobs:
           git fetch
           git pull
           sed -i -e "s/░/ /g" README.md
+          git add .
           git commit --allow-empty -m "replace ░ with a space"
-          echo "----------"
-          cat README.md
-          echo "----------"
           git push origin master
