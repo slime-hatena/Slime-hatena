@@ -31,10 +31,10 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          sed -i -e "s/░/ /g" README.md
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git fetch
           git pull
+          sed -i -e "s/░/ /g" README.md
           git commit --allow-empty -m "replace ░ with a space"
           git push origin master
