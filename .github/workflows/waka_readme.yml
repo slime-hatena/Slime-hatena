@@ -5,9 +5,8 @@ on:
     - cron: '0 19 * * *' # 4:00 UTC+0900
   workflow_dispatch:
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-20.04
+  waka-readme-stats:
+    runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
@@ -25,6 +24,17 @@ jobs:
           # SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+      - uses: actions/checkout@v2
+      - run: |
+          sed -i -e "s/░/ /g" README.md
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit --allow-empty -m "replace ░ with a space"
+          git push origin master
+  replace:
+    runs-on: ubuntu-latest
+    needs: [waka-readme-stats]
+    steps:
       - uses: actions/checkout@v2
       - run: |
           sed -i -e "s/░/ /g" README.md
