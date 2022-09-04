@@ -2,62 +2,22 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%203%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    105 commits    ██                          9.93% 
-🌆 Daytime    103 commits    ██                          9.74% 
-🌃 Evening    136 commits    ███                         12.87% 
-🌙 Night      713 commits    ████████████████            67.46%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       123 commits    ███                         11.64% 
-Tuesday      124 commits    ███                         11.73% 
-Wednesday    145 commits    ███                         13.72% 
-Thursday     194 commits    ████                        18.35% 
-Friday       180 commits    ████                        17.03% 
-Saturday     128 commits    ███                         12.11% 
-Sunday       163 commits    ███                         15.42%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-Other                    3 hrs 9 mins        ████████████████            63.88% 
-Docker                   48 mins             ████                        16.34% 
-YAML                     23 mins             ██                          8.0% 
-Markdown                 15 mins             █                           5.07% 
-JSON                     9 mins                                          3.07%
-
-🔥 Editors: 
-VS Code                  4 hrs 57 mins       █████████████████████████   100.0%
-
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I Mostly Code in C#** 
 
 ```text
-C#                       12 repos            ████                        18.46% 
-HTML                     12 repos            ████                        18.46% 
-PHP                      10 repos            ███                         15.38% 
-JavaScript               7 repos             ██                          10.77% 
-C++                      5 repos             ██                          7.69%
+C#                       12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
+PHP                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
 
 
- Last Updated on 03/09/2022 19:07:10 UTC
+ Last Updated on 04/09/2022 19:07:04 UTC
 <!--END_SECTION:waka-->
 
 ---
