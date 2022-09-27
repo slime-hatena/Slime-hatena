@@ -2,22 +2,22 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2055%20mins-blue)
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     13 repos            █████                       20.0% 
-C#                       11 repos            ████                        16.92% 
-PHP                      9 repos             ███                         13.85% 
-JavaScript               7 repos             ██                          10.77% 
-C++                      5 repos             ██                          7.69%
+HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C#                       11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.92% 
+PHP                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
 
 
- Last Updated on 26/09/2022 19:08:48 UTC
+ Last Updated on 27/09/2022 19:11:18 UTC
 <!--END_SECTION:waka-->
 
 ---
