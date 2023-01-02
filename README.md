@@ -7,11 +7,11 @@
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-C#                       10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-PHP                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+HTML                     13 repos            █████                       20.0% 
+C#                       10 repos            ███                         15.38% 
+PHP                      9 repos             ███                         13.85% 
+JavaScript               8 repos             ███                         12.31% 
+C++                      5 repos             ██                          7.69%
 
 ```
 
